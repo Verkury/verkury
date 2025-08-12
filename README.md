@@ -18,6 +18,10 @@
 <div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=verkury&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
