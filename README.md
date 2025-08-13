@@ -14,10 +14,10 @@
         <img src="imgs/javascript.svg" width="60" height="60">
         <img src="imgs/html5.svg" width="60" height="60">
 </div>
-
+<h2 align="center"> Widgets
 <div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=verkury&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div>
@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=verkury&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=verkury&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center"> PC
