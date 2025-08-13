@@ -38,7 +38,7 @@
     <img src="imgs/archlinux.svg" width="60" height="60">
     <img src="imgs/hyprland.svg" width="60" height="60">
 </div>
-
+<h2 align="center"> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=verkury&label=Profile%20views&color=0e75b6&style=flat" alt="verkury" />
 </p>
