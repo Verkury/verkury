@@ -3,16 +3,16 @@
 <h3 align="center"> In 2023, he began to take an interest in programming, and in the same year he began learning his first language.
 <h2 align="center"> Languages that I use confidently:
 <div align="centr">
-        <img src="imgs/cplusplus.svg" width="60" height="60">
-        <img src="imgs/dotnet.svg" width="60" height="60">
-        <img src="imgs/go.svg" width="60" height="60">
-        <img src="imgs/python.svg" width="60" height="60">
+        <img src="imgs/cplusplus.png" width="80" height="80" >
+        <img src="imgs/dotnet.png" width="80" height="80">
+        <img src="imgs/go.png" width="80" height="80">
+        <img src="imgs/python.png" width="80" height="80">
 </div>
 <h2 align="center"> Languages that I use uncertainly:
 <div align="centr">
-        <img src="imgs/css.svg" width="60" height="60">
-        <img src="imgs/javascript.svg" width="60" height="60">
-        <img src="imgs/html5.svg" width="60" height="60">
+        <img src="imgs/css.png" width="80" height="80">
+        <img src="imgs/javascript.png" width="80" height="80">
+        <img src="imgs/html5.png" width="80" height="80">
 </div>
 
 <div>
@@ -31,13 +31,13 @@
 
 <h2 align="center"> PC
 <div align="sentr">
-    <img src="imgs/popos.svg" width="60" height="60">
-    <img src="imgs/gnome.svg" width="60" height="60">
+    <img src="imgs/popos.png" width="80" height="80">
+    <img src="imgs/gnome.png" width="80" height="80">
 </div>
 <h2 align="center"> Laptop
-<div align="sentr">
-    <img src="imgs/archlinux.svg" width="60" height="60">
-    <img src="imgs/hyprland.svg" width="60" height="60">
+<div align="senter">
+    <img src="imgs/archlinux.png" width="80" height="80">
+    <img src="imgs/hyprland.png" width="80" height="80">
 </div>
 
 <p align="center">
