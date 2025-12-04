@@ -16,12 +16,14 @@
 ### Lines: 0 0
 ### Hardest thing: `Live)`
 
-## Date: `02.12.2025`
-### Code logs: `dayoff`
-### Lines: 7 0
-### Hardest thing: `Don't burn out`
+ 
 
 ## Date: `03.12.2025`
 ### Code logs: `dayoff`
 ### Lines: 21 0
 ### Hardest thing: `Vacation is coming to an end`
+
+## Date: `04.12.2025`
+### Code logs: `dayoff`
+### Lines: 0 0
+### Hardest thing: `The day of what? There are too many things`
