@@ -24,7 +24,7 @@
 
 ## Date: `03.12.2025`
 ### Code logs: `dayoff`
-### Lines: 21 0
+### Lines: +21 0
 ### Hardest thing: `Vacation is coming to an end`
 
 ## Date: `04.12.2025`
@@ -44,5 +44,10 @@
 
 ## Date: `07.12.2025`
 ### Code logs: `Created launcher for html`
-### Lines: 70 0
+### Lines: +70 0
 ### Hardest thing: `Nothing or learning`
+
+## Date: `08.12.2025`
+### Code logs: `Created TimeToNewYear Sine and started developing chat`
+### Lines: +600 -240
+### Hardest thing: `Animations`
