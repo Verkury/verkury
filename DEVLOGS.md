@@ -41,3 +41,8 @@
 ### Code logs: `dayoff`
 ### Lines: 0 0
 ### Hardest thing: `Don't lose the bliss that I have`
+
+## Date: `07.12.2025`
+### Code logs: `Created launcher for html`
+### Lines: 70 0
+### Hardest thing: `Nothing or learning`
