@@ -51,3 +51,8 @@
 ### Code logs: `Created TimeToNewYear Sine and started developing chat`
 ### Lines: +600 -240
 ### Hardest thing: `Animations`
+
+## Date: `09.12.2025`
+### Code logs: `Chat was developed`
+### Lines: +380 -0
+### Hardest thing: `Don't fall off the top`
