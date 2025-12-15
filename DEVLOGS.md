@@ -76,3 +76,8 @@
 ### Code logs: `dayoff`
 ### Lines: +0 -0
 ### Hardest thing: `None`
+
+## Date: `14.12.2025`
+### Code logs: `Add server for chat`
+### Lines: +113 -0
+### Hardest thing: `Scroll`
