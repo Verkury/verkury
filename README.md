@@ -18,3 +18,7 @@ I am currently expanding my expertise in the **Go ecosystem**, focusing on build
 #### Contact Me
 * **Telegram:** [@Ver_kury](https://t.me/ver_kury)
 * **Discord:** __verkury__
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=verkury)
