@@ -21,4 +21,4 @@ I am currently expanding my expertise in the **Go ecosystem**, focusing on build
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=verkury)
+![](https://komarev.com/ghpvc/?username=verkury&color=gray)
