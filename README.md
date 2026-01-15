@@ -1,44 +1,20 @@
-<h1 align="center"> Hi there 👋 Im Verkury
-<h2 align="center"> I am an ASU college student.
-<h3 align="center"> In 2023, he began to take an interest in programming, and in the same year he began learning his first language.
-<h2 align="center"> Languages that I use confidently:
-<div align="centr">
-        <img src="imgs/cplusplus.png" width="80" height="80" >
-        <img src="imgs/dotnet.png" width="80" height="80">
-        <img src="imgs/go.png" width="80" height="80">
-        <img src="imgs/python.png" width="80" height="80">
-</div>
-<h2 align="center"> Languages that I use uncertainly:
-<div align="centr">
-        <img src="imgs/css.png" width="80" height="80">
-        <img src="imgs/javascript.png" width="80" height="80">
-        <img src="imgs/html5.png" width="80" height="80">
-</div>
-<h2 align="center"> Widgets
-<div>
+### Hi there! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+#### About Me
+I am **Verkury**, a Go developer based in Russia. 
 
-<div>
+I specialize in building efficient programs that optimize workflows and save time. I have a strong passion for automation: if a process can be automated, I’ve likely already engineered a solution for it. I focus on writing clean, controllable code and creating tools that make life easier.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verkury&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+#### Tech Stack
+* **Core:** Go (Standard Library, Concurrency, CLI Tools)
+* **Polyglot Background:** C++, Python, Java, C#
+* **Focus:** Backend Development, System Utilities, Automation
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=verkury&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=verkury&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### Current Focus
+I am currently expanding my expertise in the **Go ecosystem**, focusing on building scalable web services and mastering modern backend architecture.
 
-<h2 align="center"> PC
-<div align="sentr">
-    <img src="imgs/popos.png" width="80" height="80">
-    <img src="imgs/gnome.png" width="80" height="80">
-</div>
-<h2 align="center"> Laptop
-<div align="senter">
-    <img src="imgs/archlinux.png" width="80" height="80">
-    <img src="imgs/hyprland.png" width="80" height="80">
-</div>
-<h2 align="center"> 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=verkury&label=Profile%20views&color=0e75b6&style=flat" alt="verkury" />
-</p>
+---
+
+#### Contact Me
+* **Telegram:** [@Ver_kury](https://t.me/ver_kury)
+* **Discord:** __verkury__
